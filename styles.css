@@ -1,0 +1,54 @@
+body {
+
+    width: 100%;
+    max-width: 1200px;
+    background-color: #FFEBCD;
+    margin: 25px 50px 75px;
+    border: 2px solid red;
+    
+}
+
+h1, h3 {
+
+    text-align: center
+}
+
+p {
+    padding: .75em;
+    background-color: rgb(205, 133, 50);
+    font-size: 1.25pc
+    
+    
+    
+
+
+}
+
+main h2 {
+	padding: 0.225em 0 0.225em 0.225em;
+}
+
+
+img {
+	width: 48%;
+    max-width: 48%;
+    
+}
+
+.productions {
+    text-align: center
+
+}
+
+#bold {
+
+    font-style: oblique
+}
+
+
+
+
+
+
+
+
